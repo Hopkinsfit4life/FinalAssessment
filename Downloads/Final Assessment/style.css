@@ -1,0 +1,12 @@
+/* add code here to make your image 300px square */
+img{ border: 1px solid #ddd; border-radius:9px; width:300px;
+}
+/* add code here to change the color and font family of your name/title */
+h1{
+color: blue;  font-family:'Courier New', Courier, monospace;  font: size 60px;
+}
+/* Bonus: change the color of your list elements */
+ol {
+    color: rgb(98, 80, 255);
+ }
+
